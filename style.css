@@ -10,3 +10,12 @@ h1 {
 body{
     background: #CCCCCC;
 }
+
+#banner{
+    width: 100%;
+}
+
+em strong{
+    color: #FF0000;
+    
+}
